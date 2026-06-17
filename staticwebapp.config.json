@@ -2,7 +2,7 @@
   "routes": [
     {
       "route": "/catalog/file1",
-      "redirect": "https://medicinagroup.sharepoint.com/sites/PublicDocuments/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FPublicDocuments%2FShared%20Documents%2FAcetamol%201000%20mg%20Leaflet%5F31%20July%202025%2Epdf&parent=%2Fsites%2FPublicDocuments%2FShared%20Documents&p=true&ct=1781699543173&or=Outlook%2DBody&cid=5B554954%2D0F6B%2D4161%2DB59E%2DA76DA0E6E752&ga=1",
+      "redirect": "https://medicinagroup.sharepoint.com/:b:/s/PublicDocuments/IQD9qSbnaPetTIuY0_tZydZjASvlVuP4kFYqz1biHfkhcDw?e=vkm1U9",
       "statusCode": 302
     }
   ]
