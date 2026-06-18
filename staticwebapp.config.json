@@ -1,8 +1,48 @@
 {
   "routes": [
     {
-      "route": "/catalog/file1",
+      "route": "/catalog/acetamol-1000-leaflet",
+      "redirect": "https://medicinagroup.sharepoint.com/:b:/s/PublicDocuments/IQB5CTR-GLsaT7U6YXUvDSeqAQ2vnYJPC7rBNH6AJvYUxvQ?e=E5fhD8",
+      "statusCode": 302
+    },
+    {
+      "route": "/catalog/valnor-triple-spc",
       "redirect": "https://medicinagroup.sharepoint.com/:b:/s/PublicDocuments/IQD9qSbnaPetTIuY0_tZydZjASvlVuP4kFYqz1biHfkhcDw?e=vkm1U9",
+      "statusCode": 302
+    },
+    {
+      "route": "/catalog/calcium-acetate-leaflet",
+      "redirect": "https://medicinagroup.sharepoint.com/:b:/s/PublicDocuments/IQB_aBNl9RnNTLkOuW6yx2F_AU-vae5HSL9RUeUMii0jcn0?e=FSvUvO",
+      "statusCode": 302
+    },
+    {
+      "route": "/catalog/jamp-sodium-phosphate-leaflet",
+      "redirect": "https://medicinagroup.sharepoint.com/:b:/s/PublicDocuments/IQCjJjOtUz-0QrQwpg8j5eJVAYXoU9HNpQnmvgceQNUblhU?e=OoIYbR",
+      "statusCode": 302
+    },
+    {
+      "route": "/catalog/sodium-phosphate-spc",
+      "redirect": "https://medicinagroup.sharepoint.com/:b:/s/PublicDocuments/IQDg8JTC5KWPR4WZZS0gtpkGAZaPtqhbgPpUyhf4t73k6TE?e=FOvCpG",
+      "statusCode": 302
+    },
+    {
+      "route": "/catalog/valnor-combi-leaflet",
+      "redirect": "https://medicinagroup.sharepoint.com/:b:/s/PublicDocuments/IQCnYY1LQoVtRI1-RGnLXWdmAeG-eMDmq8V6ojFoDmF97vk?e=857WHw",
+      "statusCode": 302
+    },
+    {
+      "route": "/catalog/valnor-combi-spc",
+      "redirect": "https://medicinagroup.sharepoint.com/:b:/s/PublicDocuments/IQCDhFv7pQblSK8-SYsLQcOMAeQjkfxWUQn4D1c0gVR3Ekw?e=ceBRag",
+      "statusCode": 302
+    },
+    {
+      "route": "/catalog/valnor-triple-leaflet",
+      "redirect": "https://medicinagroup.sharepoint.com/:b:/s/PublicDocuments/IQCMX_vaUwmWSZdA1yTzkhl_AaRHP27wUR-uzLntCB6giEI?e=WtTjJ9",
+      "statusCode": 302
+    },
+    {
+      "route": "/catalog/acetamol-spc",
+      "redirect": "https://medicinagroup.sharepoint.com/:b:/s/PublicDocuments/IQDeNvTVp3CpQryXJrJRtyOdAT3X27PxxUZcBRsYAIyXohA?e=7CN2Ej",
       "statusCode": 302
     }
   ]
