@@ -45,5 +45,10 @@
       "redirect": "https://medicinagroup.sharepoint.com/:b:/s/PublicDocuments/IQDeNvTVp3CpQryXJrJRtyOdAT3X27PxxUZcBRsYAIyXohA?e=7CN2Ej",
       "statusCode": 302
     }
+    {
+      "route": "/catalog/insta",
+      "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQAVaJvKYYh6TpocxxeCLpA4AQwo4VEPKhuEYTJ0JjM2COo?e=dXLyOL",
+      "statusCode": 302
+    }
   ]
 }
