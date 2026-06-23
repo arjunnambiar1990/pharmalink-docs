@@ -49,6 +49,11 @@
       "route": "/catalog/insta",
       "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQAVaJvKYYh6TpocxxeCLpA4AQwo4VEPKhuEYTJ0JjM2COo?e=dXLyOL",
       "statusCode": 302
+    },
+     {
+      "route": "/catalog/maxigesiciv",
+      "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQCz5h2zOXwmSq9m2lSHoqpvAYMz7ED9ZcVw5K7FVMGIz4Y?e=2RnDHX",
+      "statusCode": 302
     }
   ]
 }
