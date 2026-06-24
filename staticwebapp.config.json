@@ -57,12 +57,12 @@
     },
      {
       "route": "/catalog/latuda",
-      "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/abdelrahman_abdelhalim_pharmalink_ae/IQAXcm1ND_XwTqzopIBwO51tAdealyWKERXdQK8DQpwROLo",
+      "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQD40kLVOQhrRoBda9nAiMSsAYVfRL703iYfJzT7HvVJCpk?e=HzOFs0",
       "statusCode": 302
     },
      {
       "route": "/catalog/madikinet",
-      "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/abdelrahman_abdelhalim_pharmalink_ae/IQBdk3qVfjk1TL0QXaMYv45JAT3WpBt12kBrkQFxltY3OmY",
+      "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQDdJlbcH0QpTagkGqfW0S7yAeL1E5YikvjRd__I_iJgdjg?e=YrhuHq",
       "statusCode": 302
     }
   ]
