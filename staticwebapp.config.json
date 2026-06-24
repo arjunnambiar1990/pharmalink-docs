@@ -54,6 +54,16 @@
       "route": "/catalog/maxigesiciv",
       "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQCz5h2zOXwmSq9m2lSHoqpvAYMz7ED9ZcVw5K7FVMGIz4Y?e=2RnDHX",
       "statusCode": 302
+    },
+     {
+      "route": "/catalog/latuda",
+      "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/abdelrahman_abdelhalim_pharmalink_ae/IQAXcm1ND_XwTqzopIBwO51tAdealyWKERXdQK8DQpwROLo",
+      "statusCode": 302
+    },
+     {
+      "route": "/catalog/madikinet",
+      "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/abdelrahman_abdelhalim_pharmalink_ae/IQBdk3qVfjk1TL0QXaMYv45JAT3WpBt12kBrkQFxltY3OmY",
+      "statusCode": 302
     }
   ]
 }
