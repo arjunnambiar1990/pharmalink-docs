@@ -61,6 +61,11 @@
       "statusCode": 302
     },
      {
+      "route": "/catalog/schiz",
+      "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQDs7gRV8gb_T4pdLwLI8ElRAYXz5YL9s_QV2YdDwkuU1-Y?e=a3F3Hy",
+      "statusCode": 302
+    },
+     {
       "route": "/catalog/madikinet",
       "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQDdJlbcH0QpTagkGqfW0S7yAeL1E5YikvjRd__I_iJgdjg?e=YrhuHq",
       "statusCode": 302
