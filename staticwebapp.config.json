@@ -105,6 +105,11 @@
       "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQBUi_wfZ5qxQ5r_0zkRPrRtAazlXN9aUzWrKP18o7g6F8s?e=UUfY8L",
       "statusCode": 302
     },
+    {
+      "route": "/catalog/rocuronium",
+      "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQCRlxgu1hZzSa5GVHFOCsFvATDMRZsyhM7faNSZerpiSQE?e=vJScZC",
+      "statusCode": 302
+    },
      {
       "route": "/catalog/madikinet",
       "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQDdJlbcH0QpTagkGqfW0S7yAeL1E5YikvjRd__I_iJgdjg?e=YrhuHq",
