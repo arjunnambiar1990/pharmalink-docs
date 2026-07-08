@@ -112,7 +112,7 @@
     },
      {
       "route": "/catalog/violin",
-      "redirect": "https://medicinagroup-my.sharepoint.com/:v:/g/personal/graphics_pharmalink_ae/IQChD_ElUuNmRrDtGQiQujQVAcUc7njl6_Sz9bjxRpcRQpU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=vZ9fUl",
+      "redirect": "https://medicinagroup-my.sharepoint.com/:v:/g/personal/graphics_pharmalink_ae/IQChD_ElUuNmRrDtGQiQujQVAcUc7njl6_Sz9bjxRpcRQpU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=uCI3cd&referrer=Outlook.Win32&referrerScenario=email-linkwithoutembed",
       "statusCode": 302
     },
      {
