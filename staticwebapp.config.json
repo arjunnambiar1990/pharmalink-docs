@@ -110,9 +110,34 @@
       "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQCRlxgu1hZzSa5GVHFOCsFvATDMRZsyhM7faNSZerpiSQE?e=vJScZC",
       "statusCode": 302
     },
-     {
+      {
       "route": "/catalog/violin",
       "redirect": "https://medicinagroup-my.sharepoint.com/:v:/g/personal/graphics_pharmalink_ae/IQChD_ElUuNmRrDtGQiQujQVAcUc7njl6_Sz9bjxRpcRQpU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=uCI3cd&referrer=Outlook.Win32&referrerScenario=email-linkwithoutembed",
+      "statusCode": 302
+    },
+     {
+      "route": "/catalog/jounal01",
+      "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQD7ykO5vIAQT77efDIhVjcSAXtvFFjErEAwyVdl0vNmVbk?e=7qwBzx",
+      "statusCode": 302
+    },
+     {
+      "route": "/catalog/tasc",
+      "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQCcnEl1hkqbSKoek7V8f2NMAQ0tIKBKSV7XHfBBsUyAaWw?e=sohrMK",
+      "statusCode": 302
+    },
+        {
+      "route": "/catalog/tasc01",
+      "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQBTTd9ppgZZRq12BSjTA3AZAQntyDwCC515uiauhyW__SQ?e=2acBwe",
+      "statusCode": 302
+    },
+        {
+      "route": "/catalog/acc",
+      "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQBgYqvV-IKgTbeMSfI8T9IOAfemrsoR4LD_SIwk9gpfgl8?e=MWm0hM",
+      "statusCode": 302
+    },
+        {
+      "route": "/catalog/peripheral",
+      "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQBsxeqKxvt9TLpZ7p1WpR2YAQ_W6R6YGDUpwdypqyWyUHI?e=e4Ipij",
       "statusCode": 302
     },
      {
