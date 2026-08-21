@@ -140,6 +140,21 @@
       "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQBsxeqKxvt9TLpZ7p1WpR2YAQ_W6R6YGDUpwdypqyWyUHI?e=e4Ipij",
       "statusCode": 302
     },
+    {
+      "route": "/catalog/diabse2000",
+      "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQANRT9Opsc_TaFbkVUhk-_uAbD8E9-x_Uu1T4BpN4MNmYc?e=gHUPMy",
+      "statusCode": 302
+    },
+      {
+      "route": "/catalog/diabse2500",
+      "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQBeeEi9ww-AR7ltvfEXEW85AdOBxZYYV0sNy10XrJO1dUE?e=wml8mH",
+      "statusCode": 302
+    },
+       {
+      "route": "/catalog/diabse50000",
+      "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQAPr8Tr2Q_wSKLBte2DLYiVAVwnBuud9vEcxyYPUbbDZcg?e=blKrku",
+      "statusCode": 302
+    },
         {
       "route": "/catalog/maxigesic01",
       "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQABWICzKASYR4nJBSKS_k7RATknBXVBWe9Uq8HwPvX1Z_4?e=adas3V",
