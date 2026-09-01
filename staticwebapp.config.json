@@ -165,6 +165,16 @@
       "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQANc9vWwlAsRbyzwXZ_PgQwARZqTZlTPGIGcOI3VA-dDsw?e=mW0QdF",
       "statusCode": 302
     },
+    {
+      "route": "/catalog/rosiv01",
+      "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQBgAUxSUyN6Q6xdHLT9bJEpAYB56UFoUfcl8_nm5CevykA?e=c7xPmV",
+      "statusCode": 302
+    },
+    {
+      "route": "/catalog/rosiv02",
+      "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQCTW8ECTfDsQLiBV2apubJzAVjwu9K_C7RjAmtX-Ddj9Q0?e=17Qxam",
+      "statusCode": 302
+    },
        {
       "route": "/catalog/maxigesic03",
       "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQBgAUxSUyN6Q6xdHLT9bJEpAYB56UFoUfcl8_nm5CevykA?e=c7xPmV",
