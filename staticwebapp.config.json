@@ -180,9 +180,14 @@
       "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQBgAUxSUyN6Q6xdHLT9bJEpAYB56UFoUfcl8_nm5CevykA?e=c7xPmV",
       "statusCode": 302
     },
+      {
+      "route": "/catalog/Testyra",
+      "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQAFNJrueq76RKJ-gPBIDasAAbEwm46EnjiCvYfr2b2F-nc?e=OsycB3",
+      "statusCode": 302
+    },
        {
-      "route": "/catalog/Predkern",
-      "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQD9hFqdN4w1T6PDWuCSUmCUARujnX2OK1esP09FFv2XgPo?e=CZwnmi",
+      "route": "/catalog/Nora",
+      "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQBQIsXzhrwmS7iq96LvG0_dAaE5ZH0IFFOo19OsAVcFHyw?e=EfYhNj",
       "statusCode": 302
     },
      {
