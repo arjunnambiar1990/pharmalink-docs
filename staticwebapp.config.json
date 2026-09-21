@@ -191,6 +191,11 @@
       "statusCode": 302
     },
      {
+      "route": "/catalog/Georgia_Sam",
+      "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQAzF8f_dC6VSb7kBYnkKQ8cAW5aaXsxJzS8jYuRYj8a20g?e=YQaaRg",
+      "statusCode": 302
+    },
+     {
       "route": "/catalog/madikinet",
       "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQDdJlbcH0QpTagkGqfW0S7yAeL1E5YikvjRd__I_iJgdjg?e=YrhuHq",
       "statusCode": 302
