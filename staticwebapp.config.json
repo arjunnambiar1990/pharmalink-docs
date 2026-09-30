@@ -221,6 +221,21 @@
       "statusCode": 302
     },
      {
+      "route": "/catalog/BS_DUO_Leaflet",
+      "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQBB_A2XQRx9ToOV3fBTXJB6AbBxzb6NjB_Dma2NN_wl7C0?e=MEGT8Z",
+      "statusCode": 302
+    },
+     {
+      "route": "/catalog/BS_Night_Leaflet",
+      "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQA-DrNzFWHeSZhRHFKAWj3KAXkEMkkB6kyuG_do07veRGI?e=kFuVMz",
+      "statusCode": 302
+    },
+    {
+      "route": "/catalog/BS_Pastilles_Leaflet",
+      "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQA56us75yNmS7e-WNfvehIUAeFYvW7k7AnGx_TddSMzPKc?e=9RDt55",
+      "statusCode": 302
+    },
+     {
       "route": "/catalog/madikinet",
       "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQDdJlbcH0QpTagkGqfW0S7yAeL1E5YikvjRd__I_iJgdjg?e=YrhuHq",
       "statusCode": 302
