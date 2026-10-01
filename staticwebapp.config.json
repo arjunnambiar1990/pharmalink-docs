@@ -230,11 +230,40 @@
       "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQA-DrNzFWHeSZhRHFKAWj3KAXkEMkkB6kyuG_do07veRGI?e=kFuVMz",
       "statusCode": 302
     },
+       {
+      "route": "/catalog/spirotabpil",
+      "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQDEHMoDbiCiR6ftfC7QO06iAVfg7geWWavJRApLUNGc0tg?e=8KiRrV",
+      "statusCode": 302
+    },
+    {
+      "route": "/catalog/indelocpil",
+      "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQCAp3cA65pyRYKUH0G6R_vAAf6XlmZWY16YY2QqNsf51u0?e=CrNKKL",
+      "statusCode": 302
+    },
+       {
+      "route": "/catalog/prrosiv",
+      "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQCODLPGSzDdRrUMiBBVtWldAXVIeJvrxvFA06JiZ3wIzpA?e=gWyXns",
+      "statusCode": 302
+    },
     {
       "route": "/catalog/BS_Pastilles_Leaflet",
       "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQA56us75yNmS7e-WNfvehIUAeFYvW7k7AnGx_TddSMzPKc?e=9RDt55",
       "statusCode": 302
     },
+    { "route": "/catalog/spirotabpil", "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQDEHMoDbiCiR6ftfC7QO06iAVfg7geWWavJRApLUNGc0tg?e=8KiRrV", "statusCode": 302 },
+{ "route": "/catalog/indelocpil", "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQCAp3cA65pyRYKUH0G6R_vAAf6XlmZWY16YY2QqNsf51u0?e=CrNKKL", "statusCode": 302 },
+{ "route": "/catalog/thrombo100as", "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQD5Hetb2EWZSr7rBdobPqg3AVr2CLh0ZsuOwVd7OnF3dM8?e=2FjCiG", "statusCode": 302 },
+{ "route": "/catalog/thromboas75", "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQAn9fspVM5WS6dkDm5dDQN1Ad8HCtInzCSBe4DrdvuCljo?e=f3eFON", "statusCode": 302 },
+{ "route": "/catalog/midotabpil", "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQCChkYsAJalQKHlqoA0UlcNAVLe-cYvI_PB4u0omLFXwZ8?e=BCI6rM", "statusCode": 302 },
+{ "route": "/catalog/nitronal", "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQDZ6Pqe76eLS7JGvNbw994aARyiY7x4bvuA5rxOmHfQ-0w?e=OCSgco", "statusCode": 302 },
+{ "route": "/catalog/sitanormetpil", "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQBeZFCHKLOzTKrA_X2Ryam2AREy_Y5rg0n5tb7NTWkUYdg?e=LGY8B7", "statusCode": 302 },
+{ "route": "/catalog/sitanorpil", "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQCh-FEVMWOcTac9_syILxREARSDqcD3QHWsweCkAgqPZmg?e=s8O1cO", "statusCode": 302 },
+{ "route": "/catalog/benostansupp", "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQA_9jtlqh1FSqXNGq5-UmBCAQr9IW2QhVpDBAu3qPzvSUA?e=2XVBd3", "statusCode": 302 },
+{ "route": "/catalog/lipohyal", "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQAzxl9vWSjzS6SEDcS5arP7AdBveW10Rs6VdrRgtSiLQAo?e=g8cMtc", "statusCode": 302 },
+{ "route": "/catalog/nitrolingual", "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQAQaTv-kNidTZhLpvOo5rKXAbi1Y97DCfOWitqTj6W0H9I?e=akNtqC", "statusCode": 302 },
+{ "route": "/catalog/leaflet10mg", "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQDXKDZs7lz2TYelfWMv-MxhAW0JBLeQLVsf53Z6PKqL3Mk?e=d9lwfE", "statusCode": 302 },
+{ "route": "/catalog/leaflet5mg", "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQDcUFA0xvWDR4ONKwHl9tptAd1OKpKDNGAR5FUzHmNDjhc?e=obkhBc", "statusCode": 302 },
+{ "route": "/catalog/benostancream", "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQDaUYE7PWw-S7OfcOfnuLEiAdgOX5fEzXxLs3JMQVMHcTE?e=cnqU6p", "statusCode": 302 },
      {
       "route": "/catalog/madikinet",
       "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQDdJlbcH0QpTagkGqfW0S7yAeL1E5YikvjRd__I_iJgdjg?e=YrhuHq",
