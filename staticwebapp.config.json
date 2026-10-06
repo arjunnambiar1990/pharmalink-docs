@@ -315,6 +315,11 @@
       "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQB5W8Ha-IUbSLKYT950l-ecAeOJkxVPmkdlla_PQ3kOz94?e=y2ZIfx",
       "statusCode": 302
     },
+     {
+      "route": "/catalog/Jabour_businesscard",
+      "redirect": "https://medicinavoucher.blob.core.windows.net/voucher/Abdul Rauf Jabour_3 logo Business Cards_07-May-2024.ai.pdf",
+      "statusCode": 302
+    },
     {
       "route": "/catalog/madikinet",
       "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQDdJlbcH0QpTagkGqfW0S7yAeL1E5YikvjRd__I_iJgdjg?e=YrhuHq",
