@@ -330,6 +330,11 @@
       "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQDBncr-FsorQKD403TPkEQCAYjfAKzJKlOdjYz42FRWyjY?e=AaujGo",
       "statusCode": 302
     },
+      {
+      "route": "/catalog/CejemlyProductinformation",
+      "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQAJ36w6mpJCTqhhqWwxjsivAQ9bnusoRzPs8TeeE0hHXo4?e=XN6cEM",
+      "statusCode": 302
+    },
     {
       "route": "/catalog/madikinet",
       "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQDdJlbcH0QpTagkGqfW0S7yAeL1E5YikvjRd__I_iJgdjg?e=YrhuHq",
