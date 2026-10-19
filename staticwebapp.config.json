@@ -325,6 +325,11 @@
       "redirect": "https://medicinagroup-my.sharepoint.com/:v:/g/personal/graphics_pharmalink_ae/IQAfMP0tQbfnRbq14PPhZHRdAY0CGqzSe8O_ka8E8r_V_5c?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fxOOTE",
       "statusCode": 302
     },
+     {
+      "route": "/catalog/Flucloxacillin250-500PIL",
+      "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQDBV9OxyrFfRoCXIJ2YrC5OASzcP50LU0shv_9Few_QLe0?e=A84mqZ",
+      "statusCode": 302
+    },
        {
       "route": "/catalog/Cejemlypil",
       "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQDBncr-FsorQKD403TPkEQCAYjfAKzJKlOdjYz42FRWyjY?e=AaujGo",
