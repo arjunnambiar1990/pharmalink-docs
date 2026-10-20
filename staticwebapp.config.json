@@ -326,6 +326,26 @@
       "statusCode": 302
     },
      {
+      "route": "/catalog/DaceptonLeaflet",
+      "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQDhiE7-s7l5QZ436vLN19SNAaPigZ3jGQs98UiPjR1V7x0?e=R8awYC",
+      "statusCode": 302
+    },
+     {
+      "route": "/catalog/OridopaLeaflet",
+      "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQBJvUjv6DQXQ4ddOUcVeAYnAZrZ0xr1K7Lz9YVJJeWG_NI?e=fCDrtF",
+      "statusCode": 302
+    },
+     {
+      "route": "/catalog/SodiumValproateLeaflet",
+      "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQD4AM9jp5xhT5Rh1lT6AS2YAWY-NuNDZqamy31lS14Eok4?e=ifvZTN",
+      "statusCode": 302
+    },
+    {
+      "route": "/catalog/XadagoLeaflet",
+      "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQA_-PeNbEvMQ5prvi6Y1gfVAZisbCopv_Q2Tvj0nRy8c3A?e=IoeEl6",
+      "statusCode": 302
+    },
+     {
       "route": "/catalog/Flucloxacillin250-500PIL",
       "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQDBV9OxyrFfRoCXIJ2YrC5OASzcP50LU0shv_9Few_QLe0?e=A84mqZ",
       "statusCode": 302
