@@ -320,6 +320,11 @@
       "redirect": "https://medicinavoucher.blob.core.windows.net/voucher/Abdul Rauf Jabour_3 logo Business Cards_07-May-2024.ai.pdf",
       "statusCode": 302
     },
+       {
+      "route": "/catalog/UpdatedOrphacol",
+      "redirect": "https://https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQBnNmajCRuoTJnon9nlUEnZAfoC4QjeZaFAy_HwrfvwXSQ?e=GZx9Q1",
+      "statusCode": 302
+    },
     {
       "route": "/catalog/SF",
       "redirect": "https://medicinagroup-my.sharepoint.com/:v:/g/personal/graphics_pharmalink_ae/IQAfMP0tQbfnRbq14PPhZHRdAY0CGqzSe8O_ka8E8r_V_5c?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fxOOTE",
