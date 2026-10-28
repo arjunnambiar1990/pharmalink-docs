@@ -330,6 +330,11 @@
       "redirect": "https://medicinagroup-my.sharepoint.com/:v:/g/personal/graphics_pharmalink_ae/IQAfMP0tQbfnRbq14PPhZHRdAY0CGqzSe8O_ka8E8r_V_5c?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fxOOTE",
       "statusCode": 302
     },
+    {
+      "route": "/catalog/MonoparinLeaflet",
+      "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQC90FWD-LPdTqlIJJIRCwDKAY61DbtaF-_f5p9PQidFIgs?e=rDD76a",
+      "statusCode": 302
+    },
      {
       "route": "/catalog/DaceptonLeaflet",
       "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQDhiE7-s7l5QZ436vLN19SNAaPigZ3jGQs98UiPjR1V7x0?e=R8awYC",
