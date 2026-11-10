@@ -326,8 +326,18 @@
       "statusCode": 302
     },
     {
+      "route": "/catalog/Instillagel",
+      "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQDJoGAI6I53TIi3RZQJ5mO-AfP7X0EvEua_Q6ptT8TJDAY?e=lSf0hb",
+      "statusCode": 302
+    },
+    {
       "route": "/catalog/SF",
       "redirect": "https://medicinagroup-my.sharepoint.com/:v:/g/personal/graphics_pharmalink_ae/IQAfMP0tQbfnRbq14PPhZHRdAY0CGqzSe8O_ka8E8r_V_5c?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fxOOTE",
+      "statusCode": 302
+    },
+    {
+      "route": "/catalog/Cystistat",
+      "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQA3mbLUZmODT5pHZiPOlTMXAeKbtjA0IxTmwOrdoTO_iUs?e=pahEPw",
       "statusCode": 302
     },
     {
