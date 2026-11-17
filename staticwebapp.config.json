@@ -336,6 +336,11 @@
       "statusCode": 302
     },
     {
+      "route": "/catalog/Daceptoncartridge",
+      "redirect": "https:/medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQAnxt-1rgObSJS2h80qjqCcAWrmOHAK0FCgWX254_K_jng?e=4wnu0g",
+      "statusCode": 302
+    },
+    {
       "route": "/catalog/Duomateleaflet",
       "redirect": "https://medicinagroup-my.sharepoint.com/:b:/g/personal/graphics_pharmalink_ae/IQA-Te8-FKfGRLIP6AruBBdfAfs6Uj0mjkmKrArUIWVqlwM?e=LeAD0f",
       "statusCode": 302
